@@ -1,3 +1,3 @@
-# zenn_clock
+# zenn clock
 
-A new Flutter project.
+最強の目覚まし時計プロジェクト
